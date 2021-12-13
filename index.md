@@ -5,7 +5,6 @@ Data Analyst with a strong background in Math and Statistics. Enthusiastic and c
 [www.linkedin.com/in/uma-chidambaram](url) 
 
 
-
 ![IMG_1086](https://user-images.githubusercontent.com/88243354/145741034-371f4888-a9e4-472c-b5dc-159ae2200167.jpg)
 
 
@@ -15,13 +14,9 @@ Data Analyst with a strong background in Math and Statistics. Enthusiastic and c
 
 
 
+[Portfolio.pdf](https://github.com/UmaChidu/PythonInstacartAnalysis/files/7700440/Portfolio.pdf)
 
-
-
-
-[6.7 Preparing a Data Analytics Portfolio.pdf](https://github.com/UmaChidu/PythonInstacartAnalysis/files/7700353/6.7.Preparing.a.Data.Analytics.Portfolio.pdf)
-
-[Resume DASep2021.docx](https://github.com/UmaChidu/PythonInstacartAnalysis/files/7700355/Resume.DASep2021.docx)
+[Resume.docx](https://github.com/UmaChidu/PythonInstacartAnalysis/files/7700445/Resume.docx)
 
 
 
