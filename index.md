@@ -1,5 +1,3 @@
-## Welcome to Uma's Pages
-
 Data Analyst with a strong background in Math and Statistics. Enthusiastic and constantly learning about new skills and technologies.
 
 [www.linkedin.com/in/uma-chidambaram](url) 
