@@ -9,6 +9,8 @@ Data Analyst with a strong background in Math and Statistics. Enthusiastic and c
 
 
 
+
+
 [6.7 Preparing a Data Analytics Portfolio.pdf](https://github.com/UmaChidu/PythonInstacartAnalysis/files/7700353/6.7.Preparing.a.Data.Analytics.Portfolio.pdf)
 
 [Resume DASep2021.docx](https://github.com/UmaChidu/PythonInstacartAnalysis/files/7700355/Resume.DASep2021.docx)
